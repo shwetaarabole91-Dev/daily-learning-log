@@ -24,4 +24,24 @@
 - Power BI - Microsoft Learn
 
 ---
+
+## 🔥 Streak: Day 14 - 18 Nov 2026
+
+### Topic: Feature Engineering & ML Pipeline (Titanic Dataset)
+
+**Kya Seekha:**
+- Feature Engineering: FamilySize, IsAlone banaye
+- Encoding: get_dummies vs OneHotEncoder + ColumnTransformer
+- Scaling: StandardScaler vs MinMaxScaler
+- Full ML Pipeline banaya (Impute + Scale + Encode + Model)
+- Model Evaluation: Logistic Regression
+
+**Result:**
+- Accuracy: 83%
+- Key Insight: Females aur 1st Class passengers ke survival chances sabse jyada the.
+
+**Files:**
+- [assignment.ipynb](./assignment.ipynb)
+- [train.csv](./train.csv)
+  
 **Maintained by:** [Shweta Arabole](https://github.com/shwetaarabole91-Dev)
