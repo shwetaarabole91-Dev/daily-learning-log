@@ -4,13 +4,13 @@
 
 ### 🔥 Streak: Day 1
 
-#### 📅 2026 - May
+#### 📅 2026 
 
 | Date | Topic Learned | What I Did | Resource |
 |------|---------------|------------|----------|
-| 02 May | EDA Basics | Analyzed student dataset, 5 visualizations | YouTube + Kaggle |
-| 03 May | SQL Joins | Practiced INNER, LEFT JOIN on 100 rows | W3Schools |
-| 04 May | *Today's Plan* | Power BI Dashboard | - |
+| 02  | EDA Basics | Analyzed student dataset, 5 visualizations | YouTube + Kaggle |
+| 03  | SQL Joins | Practiced INNER, LEFT JOIN on 100 rows | W3Schools |
+| 04  | *Today's Plan* | Power BI Dashboard | - |
 
 ### 🎯 This Week's Goals
 - [x] Complete Student Performance EDA
