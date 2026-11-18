@@ -29,16 +29,16 @@
 
 ### Topic: Feature Engineering & ML Pipeline (Titanic Dataset)
 
-**Kya Seekha:**
-- Feature Engineering: FamilySize, IsAlone banaye
-- Encoding: get_dummies vs OneHotEncoder + ColumnTransformer
-- Scaling: StandardScaler vs MinMaxScaler
-- Full ML Pipeline banaya (Impute + Scale + Encode + Model)
-- Model Evaluation: Logistic Regression
+**What I Learned:**
+- Feature Engineering: Created FamilySize and IsAlone features
+- Encoding: Compared get_dummies vs OneHotEncoder with ColumnTransformer
+- Scaling: Compared StandardScaler vs MinMaxScaler
+- Built a Full ML Pipeline (Imputation + Scaling + Encoding + Model)
+- Model Evaluation using Logistic Regression
 
 **Result:**
 - Accuracy: 83%
-- Key Insight: Females aur 1st Class passengers ke survival chances sabse jyada the.
+- Key Insight: Female passengers and 1st Class passengers had the highest survival chances.
 
 **Files:**
 - [assignment.ipynb](./assignment.ipynb)
