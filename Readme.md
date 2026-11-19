@@ -128,5 +128,30 @@
 **Files:**
 - [assignment.ipynb](./assignment.ipynb)
 - [train.csv](./train.csv)
+
+
+# Day 15 - Machine Learning Basics
+
+**Course Progress: 102 / 303 Lectures (34%)**
+
+## What I Learned Today:
+- ML Pipeline
+- Train vs Validation vs Test Data & Cross Validation
+- Machine Learning Algorithm - Linear Regression
+- Metrics in Regression - RMSE, MAE, MSE
+- Overfitting, Underfitting, Variance & Bias
+- Logistic Regression
+- Classification Metrics - Accuracy, Precision, Recall
+- Naive Bayes
+- K Nearest Neighbors (KNN)
+
+## What I Built:
+1. **Linear Regression** - Predicted on Housing Dataset and evaluated using RMSE, MAE, MSE
+2. **Logistic Regression** - Classification with Confusion Matrix, Accuracy, Precision, Recall
+3. **KNN vs Naive Bayes** - Compared both algorithms on the same dataset
+
+## Key Learning:
+Overfitting happens when the model memorizes the training data. 
+Balancing Bias and Variance is the real skill in Machine Learning.
   
 **Maintained by:** [Shweta Arabole](https://github.com/shwetaarabole91-Dev)
