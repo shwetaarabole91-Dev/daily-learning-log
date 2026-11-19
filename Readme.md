@@ -132,8 +132,6 @@
 
 # Day 15 - Machine Learning Basics
 
-**Course Progress: 102 / 303 Lectures (34%)**
-
 ## What I Learned Today:
 - ML Pipeline
 - Train vs Validation vs Test Data & Cross Validation
