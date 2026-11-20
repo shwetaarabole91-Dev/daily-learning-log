@@ -151,5 +151,28 @@
 ## Key Learning:
 Overfitting happens when the model memorizes the training data. 
 Balancing Bias and Variance is the real skill in Machine Learning.
+
+# Day 16 - Core Algorithms 
+
+## Dataset Used
+Indian House Price Dataset - 29451 rows
+Target Column: TARGET(PRICE_IN_LACS)
+
+## Tasks Covered
+1. Linear Regression - RMSE, MAE, R2 + Actual vs Predicted Graph
+2. MAE, MSE, RMSE Calculation
+3. Logistic Regression
+4. Naive Bayes
+5. KNN with K=3,5,7,9,11
+6. Classification Metrics - Accuracy, Precision, Recall, F1 + Confusion Matrix
+7. Overfitting / Underfitting - Train vs Test Accuracy
+8. Bias & Variance - Theory
+
+## Conclusion
+Balanced Model (max_depth=5) gave best result with Low Bias + Low Variance.
+
+## Tech Stack
+Python | Pandas | Scikit-learn | Matplotlib
+
   
 **Maintained by:** [Shweta Arabole](https://github.com/shwetaarabole91-Dev)
